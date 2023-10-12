@@ -1,4 +1,4 @@
-# wickedwitty.github.io
+# amnrhz.github.io
 <<<<<<< HEAD
 ---
 ### Credits
